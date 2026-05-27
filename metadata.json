@@ -1,0 +1,6 @@
+{
+  "name": "AtomoCore",
+  "description": "High-fidelity mathematical 3D chemistry simulator with atomic orbitals, organic reaction mechanisms, and macroscopic physical labs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
