@@ -15,7 +15,7 @@ import { REGION_MATS } from './materials.js';
 export class DocumentaryScene {
   constructor(canvas){
     this.renderer=new THREE.WebGLRenderer({canvas, antialias:true, preserveDrawingBuffer:true});
-    this.renderer.setPixelRatio(1);
+    this.renderer.setPixelRatio(Math.min(devicePixelRatio||1,1.5)); this.renderer.setClearColor(0x020409,1); this.renderer.toneMapping=THREE.ACESFilmicToneMapping;
     this.scene=new THREE.Scene(); this.scene.background=new THREE.Color(0x020409);
     this.scene.fog=new THREE.FogExp2(0x020409, 0.055);
     this.camera=new THREE.PerspectiveCamera(42, 16/9, 0.1, 100);
