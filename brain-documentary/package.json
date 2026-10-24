@@ -1,0 +1,30 @@
+{
+  "name": "brain-documentary",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "10 Mind-Blowing Psychology Facts About Your Brain - cinematic 600s Three.js documentary generator",
+  "scripts": {
+    "preview": "vite --host 0.0.0.0 --port 5173",
+    "build": "vite build",
+    "render": "node scripts/render.js --preset=default",
+    "render:fast": "node scripts/render.js --preset=fast",
+    "render:high": "node scripts/render.js --preset=high",
+    "render:sample": "node scripts/render.js --preset=fast --seconds=5 --output=output/sample.mp4",
+    "check": "node scripts/validate-assets.js && node scripts/check-syntax.js",
+    "assets": "node scripts/download-assets.js",
+    "audio": "node scripts/generate-audio.js && node scripts/generate-subtitles.js",
+    "subtitles": "node scripts/generate-subtitles.js",
+    "setup:browser": "npx -y @puppeteer/browsers install chrome@stable --path .browsers"
+  },
+  "dependencies": {
+    "three": "^0.160.0",
+    "gsap": "^3.12.5"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0",
+    "puppeteer-core": "^23.11.1",
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "@sparticuz/chromium": "^131.0.1"
+  }
+}

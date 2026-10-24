@@ -1,0 +1,1 @@
+attribute float aPhase; uniform float uTime; varying float vP; void main(){ vP=0.5+0.5*sin(uTime*3.0+aPhase*6.2831); vec4 mv=modelViewMatrix*vec4(position,1.0); gl_PointSize=(2.0+vP*5.0)*(120.0/-mv.z); gl_Position=projectionMatrix*mv; }

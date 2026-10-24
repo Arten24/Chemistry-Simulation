@@ -1,0 +1,347 @@
+1
+00:00:00,000 --> 00:00:04,493
+Inside your skull lies the most complex object we have ever discovered.
+
+2
+00:00:04,493 --> 00:00:13,924
+Eighty-six billion neurons, connected by trillions of synapses, generate every thought you think, every memory you keep, and every emotion you feel.
+
+3
+00:00:13,924 --> 00:00:22,911
+In the next ten minutes, we will journey through glowing networks of living electricity, and uncover ten mind-blowing facts about your brain.
+
+4
+00:00:22,911 --> 00:00:26,455
+And we begin with perhaps the most hopeful fact of all.
+
+5
+00:00:26,455 --> 00:00:28,987
+Fact one: your brain can change itself.
+
+6
+00:00:28,987 --> 00:00:33,671
+Every time you learn something new, your brain physically rewires itself.
+
+7
+00:00:33,671 --> 00:00:39,051
+Connections between neurons strengthen, weaken, and even grow entirely new pathways.
+
+8
+00:00:39,051 --> 00:00:40,633
+This is neuroplasticity.
+
+9
+00:00:40,633 --> 00:00:46,203
+The synapses you use most become faster and stronger, like paths worn through a forest.
+
+10
+00:00:46,203 --> 00:00:48,291
+Practice is not just repetition.
+
+11
+00:00:48,291 --> 00:00:49,557
+It is construction.
+
+12
+00:00:49,557 --> 00:00:53,608
+You are, quite literally, sculpting the organ that sculpts you.
+
+13
+00:01:25,000 --> 00:01:27,413
+Fact two: your brain predicts reality.
+
+14
+00:01:27,413 --> 00:01:29,636
+You do not see the world directly.
+
+15
+00:01:29,636 --> 00:01:38,655
+Light strikes your eyes, but your brain receives only electrical signals, and from those signals it builds a prediction of what is out there.
+
+16
+00:01:38,655 --> 00:01:44,308
+It then checks that prediction against incoming information, correcting only the errors.
+
+17
+00:01:44,308 --> 00:01:46,595
+That is why optical illusions work.
+
+18
+00:01:46,595 --> 00:01:53,327
+Your visual cortex fills gaps, guesses edges, and invents details, usually so well that you never notice.
+
+19
+00:01:53,327 --> 00:01:56,376
+Perception is not a camera recording the world.
+
+20
+00:01:56,376 --> 00:02:00,759
+It is a controlled hallucination, constantly tested against reality.
+
+21
+00:02:00,759 --> 00:02:06,031
+What you experience as the present moment is your brain's best, most useful guess.
+
+22
+00:02:20,000 --> 00:02:22,561
+Fact three: memories are reconstructed.
+
+23
+00:02:22,561 --> 00:02:30,312
+When you remember your first day of school, or a conversation from last week, your brain is not playing a video file.
+
+24
+00:02:30,312 --> 00:02:41,413
+Deep inside the temporal lobe, a structure called the hippocampus helps reassemble fragments: colours, sounds, emotions, and places, stored across many distant regions.
+
+25
+00:02:41,413 --> 00:02:47,193
+Each time you recall an event, you rebuild it, and the rebuilding can subtly change it.
+
+26
+00:02:47,193 --> 00:02:48,179
+Details drift.
+
+27
+00:02:48,179 --> 00:02:49,624
+Suggestions sneak in.
+
+28
+00:02:49,624 --> 00:02:53,236
+Confidence, remarkably, is a poor measure of accuracy.
+
+29
+00:02:53,236 --> 00:02:59,411
+Memory evolved not to record the past perfectly, but to help you imagine the future usefully.
+
+30
+00:02:59,411 --> 00:03:03,089
+Every remembering is also, in a small way, a rewriting.
+
+31
+00:03:15,000 --> 00:03:18,751
+Fact four: your brain uses about twenty percent of your energy.
+
+32
+00:03:18,751 --> 00:03:25,599
+It weighs only about two percent of your body, yet at rest it consumes roughly a fifth of your oxygen and glucose.
+
+33
+00:03:25,599 --> 00:03:33,578
+Most of that budget pays for signalling: pumping ions, releasing neurotransmitters, and maintaining readiness in billions of neurons.
+
+34
+00:03:33,578 --> 00:03:39,771
+Thinking hard does not dramatically raise the total, because the brain is always active, even in sleep.
+
+35
+00:03:39,771 --> 00:03:46,857
+It is less like a machine you switch on, and more like a city that never sleeps, its lights burning through the night.
+
+36
+00:03:46,857 --> 00:03:51,443
+Feed it, rest it, and move your body, because blood flow is its supply line.
+
+37
+00:03:51,443 --> 00:03:54,480
+A healthy body really does support a healthy mind.
+
+38
+00:04:10,000 --> 00:04:12,640
+Fact five: sleep helps consolidate memories.
+
+39
+00:04:12,640 --> 00:04:15,641
+While you sleep, your brain is anything but idle.
+
+40
+00:04:15,641 --> 00:04:25,122
+In deep sleep, slow waves sweep across the cortex, and the hippocampus replays the day's experiences, transferring fragile memories toward long-term storage.
+
+41
+00:04:25,122 --> 00:04:30,944
+Dreams blend these fragments with older knowledge, sometimes producing sudden insight on waking.
+
+42
+00:04:30,944 --> 00:04:37,545
+Cut sleep short, and learning suffers the next day, attention narrows, and emotional reactions grow stronger.
+
+43
+00:04:37,545 --> 00:04:40,426
+Sleep is not a pause in the story of your mind.
+
+44
+00:04:40,426 --> 00:04:47,327
+It is the editor, working the night shift, deciding what to keep, what to strengthen, and what to let gently fade.
+
+45
+00:05:05,000 --> 00:05:07,522
+Fact six: emotions influence decisions.
+
+46
+00:05:07,522 --> 00:05:15,606
+Buried deep in the brain, the almond-shaped amygdala tags experiences with emotional significance: danger, reward, surprise.
+
+47
+00:05:15,606 --> 00:05:23,108
+It talks constantly with the prefrontal cortex, the region behind your forehead that plans and weighs consequences.
+
+48
+00:05:23,108 --> 00:05:28,411
+We like to imagine our decisions are purely rational, but emotion is information.
+
+49
+00:05:28,411 --> 00:05:30,157
+It tells you what matters.
+
+50
+00:05:30,157 --> 00:05:36,042
+Patients who lose emotional signalling can know every fact, yet struggle to choose at all.
+
+51
+00:05:36,042 --> 00:05:43,479
+The goal is not to silence emotion, but to integrate it: feelings as advisers, reason as the chair of the meeting.
+
+52
+00:05:43,479 --> 00:05:49,170
+Wise decisions are a collaboration between heart and head, written in neural circuitry.
+
+53
+00:06:00,000 --> 00:06:02,161
+Fact seven: attention is limited.
+
+54
+00:06:02,161 --> 00:06:12,447
+Right now, your senses deliver far more information than you could ever process: sights, sounds, sensations, memories, all competing for a single spotlight.
+
+55
+00:06:12,447 --> 00:06:14,347
+Attention is that spotlight.
+
+56
+00:06:14,347 --> 00:06:21,816
+When it locks onto one signal, others can vanish, even obvious ones, a phenomenon called inattentional blindness.
+
+57
+00:06:21,816 --> 00:06:27,188
+And despite popular belief, the brain does not truly multitask on demanding work.
+
+58
+00:06:27,188 --> 00:06:32,036
+It switches rapidly, paying a cost in speed and errors with every switch.
+
+59
+00:06:32,036 --> 00:06:34,788
+Attention is a precious, finite resource.
+
+60
+00:06:34,788 --> 00:06:43,240
+Where you place it, moment by moment, shapes your experience, your learning, and ultimately, the life your brain builds for you.
+
+61
+00:06:55,000 --> 00:06:58,389
+Fact eight: habits become more automatic with practice.
+
+62
+00:06:58,389 --> 00:07:06,400
+When you first learned to ride a bicycle, or play a chord on a guitar, your prefrontal cortex worked hard, monitoring every move.
+
+63
+00:07:06,400 --> 00:07:16,013
+With repetition, control gradually shifts to deeper structures called the basal ganglia, which chunk sequences of actions into single, effortless routines.
+
+64
+00:07:16,013 --> 00:07:22,977
+This is why you can drive a familiar route while your mind wanders, and why habits, good or bad, feel automatic.
+
+65
+00:07:22,977 --> 00:07:26,489
+The encouraging news: automatic does not mean permanent.
+
+66
+00:07:26,489 --> 00:07:32,652
+Because the brain remains plastic, new routines can be practised until they, too, run on autopilot.
+
+67
+00:07:32,652 --> 00:07:34,254
+You do not break a habit.
+
+68
+00:07:34,254 --> 00:07:36,472
+You build a stronger one beside it.
+
+69
+00:07:50,000 --> 00:07:52,160
+Fact nine: stress can affect memory.
+
+70
+00:07:52,160 --> 00:07:58,583
+When you face a threat, your body releases cortisol and adrenaline, sharpening focus for immediate action.
+
+71
+00:07:58,583 --> 00:08:03,985
+In short bursts, this response can even strengthen memory for the stressful event itself.
+
+72
+00:08:03,985 --> 00:08:13,588
+But when stress stays high for weeks or months, the same chemistry can interfere with the hippocampus, making it harder to form and retrieve everyday memories.
+
+73
+00:08:13,588 --> 00:08:16,109
+This is not a story of inevitable damage.
+
+74
+00:08:16,109 --> 00:08:17,670
+It is a story of balance.
+
+75
+00:08:17,670 --> 00:08:24,332
+Movement, sleep, daylight, and connection with other people all help bring the stress system back to baseline.
+
+76
+00:08:24,332 --> 00:08:26,613
+Your brain is listening to your life.
+
+77
+00:08:26,613 --> 00:08:30,814
+Treat recovery not as a luxury, but as maintenance for memory itself.
+
+78
+00:08:45,000 --> 00:08:47,974
+Fact ten: your brain works through networks.
+
+79
+00:08:47,974 --> 00:08:51,489
+No single region thinks, remembers, or feels alone.
+
+80
+00:08:51,489 --> 00:09:01,494
+Vision, emotion, language, and decision-making emerge from networks: distant regions firing in synchrony, exchanging signals many times per second.
+
+81
+00:09:01,494 --> 00:09:06,496
+When these networks communicate well, thought feels effortless and clear.
+
+82
+00:09:06,496 --> 00:09:14,608
+And so we return to where we began: eighty-six billion neurons, one connected, changing, predicting, remembering brain.
+
+83
+00:09:14,608 --> 00:09:15,960
+It is not finished.
+
+84
+00:09:15,960 --> 00:09:22,247
+It is being written right now, by your sleep, your habits, your attention, and your choices.
+
+85
+00:09:22,247 --> 00:09:24,816
+Look after it, challenge it, rest it.
+
+86
+00:09:24,816 --> 00:09:31,035
+Because the most extraordinary universe you will ever explore is the one between your ears.
+
+87
+00:09:31,035 --> 00:09:32,657
+Thank you for watching.

@@ -1,0 +1,1 @@
+import data from './narration-data.json'; export const SEGMENTS=data; export function sentences(){ const out=[]; for(const s of data){ const parts=s.text.match(/[^.!?]+[.!?]+/g)||[s.text]; parts.forEach(p=>out.push({seg:s.id,start:s.start,text:p.trim()})); } return out; }

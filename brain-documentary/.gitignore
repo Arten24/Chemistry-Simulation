@@ -1,0 +1,5 @@
+node_modules/
+frames/
+output/*.mp4
+!output/.gitkeep
+dist/

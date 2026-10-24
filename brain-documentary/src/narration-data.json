@@ -1,0 +1,62 @@
+[
+ {
+  "id": "seg01",
+  "start": 0,
+  "text": "Inside your skull lies the most complex object we have ever discovered. Eighty-six billion neurons, connected by trillions of synapses, generate every thought you think, every memory you keep, and every emotion you feel. In the next ten minutes, we will journey through glowing networks of living electricity, and uncover ten mind-blowing facts about your brain. And we begin with perhaps the most hopeful fact of all. Fact one: your brain can change itself. Every time you learn something new, your brain physically rewires itself. Connections between neurons strengthen, weaken, and even grow entirely new pathways. This is neuroplasticity. The synapses you use most become faster and stronger, like paths worn through a forest. Practice is not just repetition. It is construction. You are, quite literally, sculpting the organ that sculpts you.",
+  "duration": 57.03
+ },
+ {
+  "id": "seg02",
+  "start": 85,
+  "text": "Fact two: your brain predicts reality. You do not see the world directly. Light strikes your eyes, but your brain receives only electrical signals, and from those signals it builds a prediction of what is out there. It then checks that prediction against incoming information, correcting only the errors. That is why optical illusions work. Your visual cortex fills gaps, guesses edges, and invents details, usually so well that you never notice. Perception is not a camera recording the world. It is a controlled hallucination, constantly tested against reality. What you experience as the present moment is your brain's best, most useful guess.",
+  "duration": 43.65
+ },
+ {
+  "id": "seg03",
+  "start": 140,
+  "text": "Fact three: memories are reconstructed. When you remember your first day of school, or a conversation from last week, your brain is not playing a video file. Deep inside the temporal lobe, a structure called the hippocampus helps reassemble fragments: colours, sounds, emotions, and places, stored across many distant regions. Each time you recall an event, you rebuild it, and the rebuilding can subtly change it. Details drift. Suggestions sneak in. Confidence, remarkably, is a poor measure of accuracy. Memory evolved not to record the past perfectly, but to help you imagine the future usefully. Every remembering is also, in a small way, a rewriting.",
+  "duration": 45.84
+ },
+ {
+  "id": "seg04",
+  "start": 195,
+  "text": "Fact four: your brain uses about twenty percent of your energy. It weighs only about two percent of your body, yet at rest it consumes roughly a fifth of your oxygen and glucose. Most of that budget pays for signalling: pumping ions, releasing neurotransmitters, and maintaining readiness in billions of neurons. Thinking hard does not dramatically raise the total, because the brain is always active, even in sleep. It is less like a machine you switch on, and more like a city that never sleeps, its lights burning through the night. Feed it, rest it, and move your body, because blood flow is its supply line. A healthy body really does support a healthy mind.",
+  "duration": 42.0
+ },
+ {
+  "id": "seg05",
+  "start": 250,
+  "text": "Fact five: sleep helps consolidate memories. While you sleep, your brain is anything but idle. In deep sleep, slow waves sweep across the cortex, and the hippocampus replays the day's experiences, transferring fragile memories toward long-term storage. Dreams blend these fragments with older knowledge, sometimes producing sudden insight on waking. Cut sleep short, and learning suffers the next day, attention narrows, and emotional reactions grow stronger. Sleep is not a pause in the story of your mind. It is the editor, working the night shift, deciding what to keep, what to strengthen, and what to let gently fade.",
+  "duration": 39.71
+ },
+ {
+  "id": "seg06",
+  "start": 305,
+  "text": "Fact six: emotions influence decisions. Buried deep in the brain, the almond-shaped amygdala tags experiences with emotional significance: danger, reward, surprise. It talks constantly with the prefrontal cortex, the region behind your forehead that plans and weighs consequences. We like to imagine our decisions are purely rational, but emotion is information. It tells you what matters. Patients who lose emotional signalling can know every fact, yet struggle to choose at all. The goal is not to silence emotion, but to integrate it: feelings as advisers, reason as the chair of the meeting. Wise decisions are a collaboration between heart and head, written in neural circuitry.",
+  "duration": 46.99
+ },
+ {
+  "id": "seg07",
+  "start": 360,
+  "text": "Fact seven: attention is limited. Right now, your senses deliver far more information than you could ever process: sights, sounds, sensations, memories, all competing for a single spotlight. Attention is that spotlight. When it locks onto one signal, others can vanish, even obvious ones, a phenomenon called inattentional blindness. And despite popular belief, the brain does not truly multitask on demanding work. It switches rapidly, paying a cost in speed and errors with every switch. Attention is a precious, finite resource. Where you place it, moment by moment, shapes your experience, your learning, and ultimately, the life your brain builds for you.",
+  "duration": 46.0
+ },
+ {
+  "id": "seg08",
+  "start": 415,
+  "text": "Fact eight: habits become more automatic with practice. When you first learned to ride a bicycle, or play a chord on a guitar, your prefrontal cortex worked hard, monitoring every move. With repetition, control gradually shifts to deeper structures called the basal ganglia, which chunk sequences of actions into single, effortless routines. This is why you can drive a familiar route while your mind wanders, and why habits, good or bad, feel automatic. The encouraging news: automatic does not mean permanent. Because the brain remains plastic, new routines can be practised until they, too, run on autopilot. You do not break a habit. You build a stronger one beside it.",
+  "duration": 44.12
+ },
+ {
+  "id": "seg09",
+  "start": 470,
+  "text": "Fact nine: stress can affect memory. When you face a threat, your body releases cortisol and adrenaline, sharpening focus for immediate action. In short bursts, this response can even strengthen memory for the stressful event itself. But when stress stays high for weeks or months, the same chemistry can interfere with the hippocampus, making it harder to form and retrieve everyday memories. This is not a story of inevitable damage. It is a story of balance. Movement, sleep, daylight, and connection with other people all help bring the stress system back to baseline. Your brain is listening to your life. Treat recovery not as a luxury, but as maintenance for memory itself.",
+  "duration": 43.42
+ },
+ {
+  "id": "seg10",
+  "start": 525,
+  "text": "Fact ten: your brain works through networks. No single region thinks, remembers, or feels alone. Vision, emotion, language, and decision-making emerge from networks: distant regions firing in synchrony, exchanging signals many times per second. When these networks communicate well, thought feels effortless and clear. And so we return to where we began: eighty-six billion neurons, one connected, changing, predicting, remembering brain. It is not finished. It is being written right now, by your sleep, your habits, your attention, and your choices. Look after it, challenge it, rest it. Because the most extraordinary universe you will ever explore is the one between your ears. Thank you for watching.",
+  "duration": 50.7
+ }
+]

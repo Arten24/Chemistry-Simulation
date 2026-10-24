@@ -1,0 +1,20 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>10 Mind-Blowing Psychology Facts About Your Brain — Documentary</title>
+<style>
+ html,body{margin:0;height:100%;background:#020409;color:#eaf4ff;font-family:Inter,system-ui,Segoe UI,Arial,sans-serif;overflow:hidden}
+ #gl{position:fixed;inset:0;width:100%;height:100%;display:block}
+ #chapter{position:fixed;left:6vw;bottom:15vh;max-width:60vw;pointer-events:none;text-shadow:0 2px 24px #000}
+ #kicker{letter-spacing:.35em;color:#6fc3ff;font-size:clamp(12px,1.4vw,20px);font-weight:700}
+ #title{font-size:clamp(26px,4vw,58px);font-weight:800;line-height:1.05;margin-top:.25em}
+ #caption{position:fixed;left:50%;transform:translateX(-50%);bottom:9vh;width:min(900px,86vw);text-align:center;font-size:clamp(16px,1.7vw,24px);line-height:1.45;background:rgba(0,0,10,.55);padding:.45em .8em;border-radius:10px;transition:opacity .2s}
+ #hud{position:fixed;left:0;right:0;bottom:0;background:rgba(2,6,16,.82);backdrop-filter:blur(8px);padding:10px 14px;display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+ #bar-wrap{position:fixed;left:0;right:0;bottom:52px;height:4px;background:#123}#bar{height:100%;background:linear-gradient(90deg,#38b6ff,#ffb340);width:0}
+ button{background:#0d2b4d;color:#dff1ff;border:1px solid #2a6cb0;border-radius:8px;padding:7px 11px;cursor:pointer}button.active{background:#ffb340;color:#111}
+ #seek{flex:1;min-width:160px}#chapters{display:flex;gap:6px;flex-wrap:wrap}#timecode{font-variant-numeric:tabular-nums;color:#9fd0ff}
+</style></head><body>
+<canvas id="gl"></canvas>
+<div id="chapter"><div id="kicker"></div><div id="title"></div></div>
+<div id="caption"></div><div id="bar-wrap"><div id="bar"></div></div>
+<div id="hud"><button id="play">▶ Play</button><input id="seek" type="range" min="0" max="599.9" step="0.01" value="0"><span id="timecode"></span><div id="chapters"></div></div>
+<div id="audio-bank" hidden></div>
+<script type="module" src="/src/main.js"></script></body></html>
